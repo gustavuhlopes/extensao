@@ -1,0 +1,82 @@
+.inpt{
+        display: block;
+        width: 300px;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+}
+
+label{
+    display: inline-block;
+    margin-bottom: .8rem;
+    margin-top: .8rem;
+}
+
+.box_inpt{
+    color: rgb(255,255, 255);
+    font-family: lato, Ubuntu, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.box_login{
+    box-sizing: border-box;
+    padding: 12px;
+    margin-bottom: 3rem;
+}
+
+.box_btn{
+    padding: 12px;
+}
+
+.btn_submit{
+    width: 326px;
+    height: 38px;
+    
+    padding: 0.375rem 0.75rem;
+    margin: 0;
+    font-family: inherit;
+    text-transform: none;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    cursor: pointer;
+    border-color: white !important;
+    color: white !important;
+    background: transparent !important;
+}
+
+
+.login_logo{
+    max-width: 128px;
+  }
+  
+  .box_logo{
+    margin-bottom: 48px;
+  
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }

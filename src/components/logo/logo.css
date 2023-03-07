@@ -1,0 +1,12 @@
+.login_logo{
+    max-width: 128px;
+  }
+  
+  .box_logo{
+    margin-bottom: 48px;
+  
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
